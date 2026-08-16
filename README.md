@@ -1,2 +1,2 @@
-# daily-notes
-my homework
+# random library
+my game
