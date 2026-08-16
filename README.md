@@ -1,2 +1,1 @@
-# random library
-my game
+# daily-notes
